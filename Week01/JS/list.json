@@ -1,0 +1,42 @@
+[
+    {
+        "country": "Netherlands",
+        "abreviations" : "NL",
+        "language": "Dutch"
+    },
+    {
+        "country": "Germany",
+        "abreviations" : "DE",
+        "language": "German"
+    },
+    {
+        "country": "France",
+        "abreviations" : "FR",
+        "language": "French"
+    },
+    {
+        "country": "United Kingdom",
+        "abreviations" : "UK",
+        "language": "English"
+    },
+    {
+        "country": "Germany",
+        "abreviations" : "DE",
+        "language": "German"
+    },
+    {
+        "country": "Italy",
+        "abreviations" : "IT",
+        "language": "Italian"
+    },
+    {
+        "country": "Switzerland",
+        "abreviations" : "S",
+        "language": "Swiss"
+    },
+    {
+        "country": "Netherlands",
+        "abreviations" : "NL",
+        "language": "Dutch"
+    }
+]
